@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488941571 source:/home/pi/Cpp/dice_duels/dice_duels.cpp
+	"dice_duels_header.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1488940379 /home/pi/Cpp/dice_duels/dice_duels_header.h
+
+1488940944 source:/home/pi/Cpp/dice_duels/dice_duels_tutorial.cpp
+	"dice_duels_header.h"
+	<iostream>
+
